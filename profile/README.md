@@ -5,7 +5,7 @@ Open smart home hardware, built for Home Assistant.
 ## bitEngine Hub
 
 A PoE-powered gateway that runs **Zigbee 3.0 and Thread at the same time on two independent
-radios**, with Ethernet / 802.3af PoE and Wi-Fi 6 (2.4 / 5 GHz) uplinks. One cable, placed where
+radios**, with Ethernet / 802.3af PoE and a 5 GHz Wi-Fi 6 fallback uplink. One cable, placed where
 the RF coverage is best. The Thread border router runs on the device, so no add-on is needed in
 Home Assistant; the Zigbee coordinator is exposed as standard EZSP over TCP for ZHA and
 Zigbee2MQTT.
