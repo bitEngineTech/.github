@@ -22,8 +22,8 @@ Zigbee2MQTT.
 | [bitengine-home-site](https://github.com/bitEngineTech/bitengine-home-site) | Source of home.bitengine.tech | — |
 
 **Where things stand (October 2026):** hardware and firmware are working on prototype units;
-tested with Home Assistant ZHA, Zigbee2MQTT validation in progress. Firmware source is scheduled
-for release in **November 2026**, schematics at the campaign launch. FCC and CE certification are
+tested with Home Assistant ZHA and Zigbee2MQTT. Firmware source is scheduled for release in
+**November 2026**, schematics at the campaign launch. FCC and CE certification are
 planned for the production design.
 
 ## Contributing and security
